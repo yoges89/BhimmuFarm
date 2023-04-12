@@ -1,0 +1,10 @@
+# GET http://localhost:3000/dogs
+
+POST http://localhost:3000/dogs
+Content-Type: application/json
+
+{
+  "name": "SuKnny",
+  "age": 5,
+  "breed": "Deddsi"
+}
